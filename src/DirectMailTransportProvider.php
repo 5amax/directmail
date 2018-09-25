@@ -1,6 +1,6 @@
 <?php
 
-namespace 5amax\DirectMail;
+namespace d5amax\DirectMail;
 
 use Illuminate\Mail\TransportManager;
 use Illuminate\Support\ServiceProvider;

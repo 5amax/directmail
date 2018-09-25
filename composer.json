@@ -1,5 +1,5 @@
 {
-    "name": "5amax/directmail",
+    "name": "d5amax/directmail",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "5amax\\DirectMail\\": "src/"
+            "d5amax\\DirectMail\\": "src/"
         }
     }
 }
