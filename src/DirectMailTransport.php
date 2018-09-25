@@ -27,6 +27,7 @@ class DirectMailTransport extends Transport
      */
     public function __construct($AccessKeyId, $AccessSecret, $ReplyToAddress, $AddressType)
     {
+		ini_set('date.timezone','UTC');
         $this->AccessKeyId    =  $AccessKeyId;
         $this->AccessSecret   =  $AccessSecret;
         $this->ReplyToAddress =  $ReplyToAddress;
