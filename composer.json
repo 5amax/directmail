@@ -1,0 +1,19 @@
+{
+    "name": "5amax/directmail",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "5amax"
+        }
+    ],
+    "require": {
+        "php": ">=5.6",
+        "illuminate/support": "^5.5",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "5amax\\DirectMail\\": "src/"
+        }
+    }
+}
