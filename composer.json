@@ -6,6 +6,7 @@
             "name": "5amax"
         }
     ],
+	"homepage": "https://github.com/5amax/directmail",
     "require": {
         "php": ">=5.6",
         "illuminate/support": "^5.5",
